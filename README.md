@@ -7,7 +7,9 @@ IT system requirements
 
 -	Hardware: desktop computer with mouse, keyboard, and Internet connection (Dell Inspiron 5547 Intel(R) Core(TM) i5-4210U CPU @1.70GHz 2.40GHz with 8GB RAM, 64-bit operating system and x64-based processor), flash drive (Lexar JumpDrive TwistTurn 16GB USB 2.0 Flash Drive)
 -	Software: web browser (Firefox 62.0, Google Chrome 69.0.3497.100, Microsoft Edge 42.17134.1.0), website development software (Adobe Dreamweaver CC 2017), web hosting company (www.000webhost.com)
+
 System interaction
+
 -	Website must function correctly within a variety of browsers, since not every user will use the same browser.  Specifically, website must be compatible with Firefox 62.0, Google Chrome 69.0.3497.100, and Microsoft Edge 42.17134.1.0
 -	Website and functions based on Adobe Dreamweaver CC 2017 must be compatible with the 000webhost hosting server
 -	Images and videos must load quickly and be compatible with the website, and so uploaded images must be in .jpg format
